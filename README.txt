@@ -134,8 +134,8 @@ http://localhost:5601/app/dashboards#/view/your-dashboard-id
 
 Total Time Spent
 ----------------
-Approximately X hours
+Approximately  6 hours
 
 Author
 ------
-Created by [Your Name]
+Created by Ansh
